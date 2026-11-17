@@ -1,5 +1,8 @@
 # Experiment 12 – Simulate an Asynchronous Operation
 
+**Name:** JENISHA TEENA ROSE F  
+**Register Number:** 2305001010  
+
 ## Aim
 To develop a React application that simulates an asynchronous operation using `useState()` and `setTimeout()`. The application displays a loading message while student information is being retrieved and displays the result after the simulated server response.
 
